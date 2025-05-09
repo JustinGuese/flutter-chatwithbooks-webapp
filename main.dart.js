@@ -51378,7 +51378,7 @@ s===$&&A.f()
 s=A.bK(!1,g,!0,A.eb(A.RS(A.ah(4294950957),"Einsteins knowledge","\ud83d\udc45","Einstein"),s,new A.aFK(h),r),g,!0,B.j,g,B.j,B.j,g,g,g,g,g,new A.aFL(a),g,g,g,g,B.j,g,g)
 o=h.d.z
 o===$&&A.f()
-o=A.al(A.a3(A.d([new A.U(new A.X(20,0,20,0),e,g),A.dm(A.a7(A.e3(A.es(A.a3(A.d([s,A.bK(!1,g,!0,A.eb(A.RS(A.ah(4278238419),"Fabels and stuff","\ud83d\udcd6","Brothers Grimm"),o,new A.aFM(h),r),g,!0,B.j,g,B.j,B.j,g,g,g,g,g,new A.aFN(a),g,g,g,g,B.j,g,g)],p),A.D(g,g,10)),A.D(g,g,20)),A.D(g,g,20)),B.l,B.m,B.k),B.y,g,B.z,g,g,g,B.au)],c),A.D(g,20,g)),B.l,B.m,B.k)
+o=A.al(A.a3(A.d([new A.U(new A.X(20,0,20,0),e,g),A.dm(A.a7(A.e3(A.es(A.a3(A.d([s,A.bK(!1,g,!0,A.eb(A.RS(A.ah(4278238419),"The famous business/startup podcast.","\ud83d\udcd6","Tim Ferriss Show"),o,new A.aFM(h),r),g,!0,B.j,g,B.j,B.j,g,g,g,g,g,new A.aFN(a),g,g,g,g,B.j,g,g)],p),A.D(g,g,10)),A.D(g,g,20)),A.D(g,g,20)),B.l,B.m,B.k),B.y,g,B.z,g,g,g,B.au)],c),A.D(g,20,g)),B.l,B.m,B.k)
 e=A.e().$3$color$fontSize$fontWeight((A.a(a).ax.a===B.b?A.b():A.c()).gi(),14,B.c)
 s=A.e().$2$fontStyle$fontWeight(A.e().$3$color$fontSize$fontWeight((A.a(a).ax.a===B.b?A.b():A.c()).gi(),14,B.c).x,B.u)
 e=A.C("Request your own",g,g,g,g,g,g,g,A.o(e,g,g,s,22,A.e().$3$color$fontSize$fontWeight((A.a(a).ax.a===B.b?A.b():A.c()).gi(),14,B.c).x,B.u,0,g),g,g,g)
@@ -51471,7 +51471,7 @@ $0(){var s=0,r=A.v(t.H),q=this
 var $async$$0=A.q(function(a,b){if(a===1)return A.r(b,r)
 while(true)switch(s){case 0:A.aT("ASSISTANTS_Container_ayk259i4_ON_TAP",null)
 s=2
-return A.x(A.xR(q.a,"brothersgrimm","\ud83d\udcd6"),$async$$0)
+return A.x(A.xR(q.a,"timferrisshow","\ud83d\udcd6"),$async$$0)
 case 2:return A.t(null,r)}})
 return A.u($async$$0,r)},
 $S:3}
