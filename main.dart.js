@@ -34306,7 +34306,7 @@ while(true)switch(s){case 0:n=$.afF
 if(n==null)n=$.afF=new A.RN()
 p=t.N
 o=t.z
-q=n.azI(!1,"https://chatwithbooks.api.datafortress.cloud/question",B.la,!1,"postQuestion",B.oB,!1,!1,A.ad(["Authorization","Bearer "+c],p,o),!1,A.ad(["userref",e,"usermessage",d,"botmode",b,"backend_chat_id",a],p,o),!0)
+q=n.azI(!1,"chatwithbooks.aigentworkforce.com/question",B.la,!1,"postQuestion",B.oB,!1,!1,A.ad(["Authorization","Bearer "+c],p,o),!1,A.ad(["userref",e,"usermessage",d,"botmode",b,"backend_chat_id",a],p,o),!0)
 s=1
 break
 case 1:return A.r(q,r)}})
@@ -34317,7 +34317,7 @@ while(true)switch(s){case 0:n=$.afF
 if(n==null)n=$.afF=new A.RN()
 p=t.N
 o=t.z
-q=n.azH(!1,"https://chatwithbooks.api.datafortress.cloud/chat/"+A.v(b)+"/"+A.v(a),!1,"getQuestionResponse",B.oA,!1,!1,A.ad(["Authorization","Bearer "+c],p,o),!1,A.ad(["backendprocessid",a,"botmode",b],p,o),!0)
+q=n.azH(!1,"chatwithbooks.aigentworkforce.com/chat/"+A.v(b)+"/"+A.v(a),!1,"getQuestionResponse",B.oA,!1,!1,A.ad(["Authorization","Bearer "+c],p,o),!1,A.ad(["backendprocessid",a,"botmode",b],p,o),!0)
 s=1
 break
 case 1:return A.r(q,r)}})
