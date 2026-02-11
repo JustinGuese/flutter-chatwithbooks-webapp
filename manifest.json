@@ -1,6 +1,6 @@
 {
-    "name": "documentchatgeminifrontend",
-    "short_name": "documentchatgeminifrontend",
+    "name": "DocumentChatApp",
+    "short_name": "DocumentChatApp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
